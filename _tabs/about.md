@@ -7,9 +7,9 @@ order: 4
  
 <div>
 
-<a href="https://github.com/lyw1217"><img src="http://img.shields.io/badge/Github-darkgreen?style=for-the-badge&logo=github&link=https://github.com/lyw1217"></a>
-<a href="https://lyw1217.github.io/"><img src="http://img.shields.io/badge/GithubPage-gray?style=for-the-badge&logo=Github Pages&link=https://lyw1217.github.io/"></a>
-<a href="https://young-cow.tistory.com"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=Tistory&link=https://young-cow.tistory.com"></a> <a href="mailto:mvl100d@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mvl100d@gmail.com"></a>
+<a href="https://github.com/lyw1217"><img src="http://img.shields.io/badge/Github-darkgreen?style=for-the-badge&logo=github&link=https://github.com/lyw1217" alt="github"></a>
+<a href="https://lyw1217.github.io/"><img src="http://img.shields.io/badge/GithubPage-gray?style=for-the-badge&logo=Github Pages&link=https://lyw1217.github.io/" alt="github pages"></a>
+<a href="https://young-cow.tistory.com"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=Tistory&link=https://young-cow.tistory.com" alt="tistory"></a> <a href="mailto:mvl100d@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mvl100d@gmail.com" alt="gmail"></a>
 
 
 
