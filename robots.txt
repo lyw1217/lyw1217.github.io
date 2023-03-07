@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://lyw1217.github.io/sitemap.xml
+Allow:/
